@@ -1,0 +1,23 @@
+******************************************************************************
+vbGo
+http://www.geocities.com/vbgo2
+******************************************************************************
+ALPHA BLENDING CODE SAMPLE
+
+INFORMATION:
+Demonstrates the Alpha Blending API Function which is shipped with Windows 98
+The function basically allows the user to set the transparency level of a picture.
+
+REQUIRED:
+1) Visual Basic 5 / Visual Basic 6
+2) Windows 98
+
+LICENSE AND DISCLAIMER:
+The following copyright notice only applies to code which is found in the 'Full Programs' section of my web
+site. All code which is a full application and not a code sample. The code which is from the 'Sample Programs'
+section of my site is free to copy and use and hold no copyright.
+
+The code on this site may freely be used in your programs. However it is forbidden to distribute or sell the 
+code from any other servers, in newsgroups or as a part of another sample program without mentioning
+the URL of vbGo or the name of the author. If you would like to distribute the code commercially or by
+any other means, then the express permission of the author is required.
